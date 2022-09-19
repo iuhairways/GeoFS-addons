@@ -3,15 +3,7 @@
         "1": {
             "mode": 3,
             "parts" : [0],
-            "liveries" : [
-                {
-                    "name": "",
-                    "texture": "/models/aircraft/premium/cub/texture_0.jpg"
-                },
-                {
-                    "name": "",
-                    "texture": "/models/aircraft/premium/cub/texture_1.jpg"
-                }
+            "liveries" : [ 
             ]
         },
         "2": {
