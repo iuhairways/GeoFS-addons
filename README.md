@@ -1,2 +1,2 @@
 # GeoFS-Addons
-An addon for GeoFS 
+GeoFS addon library by iuhairways
