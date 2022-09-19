@@ -28,7 +28,7 @@ async function init(){
     //Load liveries
 
 
-    await fetch("https://raw.githubusercontent.com/iuhairways/GeoFS-liveries/main/Liveries.json").then(res => res.json()).then(data => liveryobj = data)
+    await fetch("https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/liverylist.json").then(res => res.json()).then(data => liveryobj = data)
 
 
     //remove original buttons
@@ -81,18 +81,7 @@ function listLiveries(){
     let mode = liveryobj.aircrafts[airplane].mode;
     let parts = liveryobj.aircrafts[airplane].parts;
 
-    liveryobj.aircrafts[airplane].liveries.forEach(function(e){
-        var dropdown = document.createElement('li');
-        dropdown.innerHTML = e.name;
-        let star = document.createElement("span");
-        star.setAttribute("class", "fa fa-star nocheck");
-        star.setAttribute("id", geofs.aircraft.instance.id + "_" + e.name);
-        star.setAttribute("onclick", "star(this)");
-        dropdown.appendChild(star);
-        dropdown.style.display = "block";
-        dropdown.setAttribute("id", geofs.aircraft.instance.id + "_" + e.name + "_button");
-        document.getElementById("liverylist").appendChild(dropdown);
-        dropdown.setAttribute("onclick", "loadLivery('"+ e.texture +"', "+ mode +", ["+ parts +"])")
+   
     })
     sortList("liverylist");
     loadFavorites();
