@@ -23,14 +23,7 @@
 				{
 					"name": "Lufthansa",
 					"texture": "https://i.ibb.co/nk1nP1V/LUFThansa3.png"
-				},
-				  "2973": {
-			"mode": 0,
-			"parts": [0],
-			"liveries": [{
-				"name": "British Airways",
-					"texture": "https://raw.githubusercontent.com/iuhairways/test3/main/britishairways.jpg"
-			       }
+				}
 			]
 		}
 	}
