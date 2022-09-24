@@ -44,8 +44,8 @@
 			"mode": 3,
 			"parts": [0],
 			"liveries": [{
-					"name": "Gulf Air",
-					"texture": "https://raw.githubusercontent.com/iuhairways/test3/main/gulfair.jpg"
+					"name": "NOC",
+					"texture": "https://raw.githubusercontent.com/iuhairways/nua_liveries/main/nca.jpg"
 				}
 			]
 		}
