@@ -80,6 +80,16 @@
                     "texture": "https://raw.githubusercontent.com/iuhairways/test/main/imageloganair.jpg"
                 }
             ]
+         },
+        "10": {
+            "mode": 0,
+            "parts" : [0],
+            "liveries": [
+                {
+                    "name": "Qatar Airways",
+                    "texture": "https://i.ibb.co/DWr9j77/qatarairwa-Ys.jpg"
+                }
+            ]
          }
 	}
 }
