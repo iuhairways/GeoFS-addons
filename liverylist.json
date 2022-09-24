@@ -48,6 +48,16 @@
 					"texture": "https://i.ibb.co/Fx1JD9c/noc.jpg"
 				}
 			]
-		}
+		},
+        "239": {
+            "mode": 0,
+            "parts" : [0],
+            "liveries": [
+                {
+                    "name": "Finnair one world",
+                    "texture": "https://i.ibb.co/6g5WKvg/finnair.jpg"
+                }
+            ]
+         }
 	}
 }
