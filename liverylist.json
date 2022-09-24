@@ -58,6 +58,16 @@
                     "texture": "https://i.ibb.co/6g5WKvg/finnair.jpg"
                 }
             ]
+         },
+        "4017": {
+            "mode": 0,
+            "parts" : [0],
+            "liveries": [
+                {
+                    "name": "Loganair",
+                    "texture": "https://raw.githubusercontent.com/iuhairways/test/main/imageloganair.jpg"
+                }
+            ]
          }
 	}
 }
