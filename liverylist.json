@@ -35,6 +35,16 @@
                     "texture": "https://raw.githubusercontent.com/iuhairways/test3/main/britishairways.jpg"
                 }
             ]
-         }
+         },
+	       "2769": {
+            "mode": 0,
+            "parts" : [0],
+            "liveries": [
+                {
+                    "name": "Gulf Air",
+                    "texture": "https://cdn.discordapp.com/attachments/1020700973238325329/1020729663116546200/unknown.png"
+                }
+            ]
+         	
 	}
 }
