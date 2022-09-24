@@ -64,6 +64,10 @@
 		     {
                     "name": "Vietnam airlines",
                     "texture": "https://i.ibb.co/3k3j7rG/Vietnam.jpg"
+                },
+		     {
+                    "name": "Airbus House",
+                    "texture": "https://i.ibb.co/5RsR1mj/A350.png"
                 }
             ]
          },
