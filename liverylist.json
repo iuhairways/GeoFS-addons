@@ -56,6 +56,10 @@
                 {
                     "name": "Finnair one world",
                     "texture": "https://i.ibb.co/6g5WKvg/finnair.jpg"
+                },
+		     {
+                    "name": "Singapore Airlines",
+                    "texture": "https://i.ibb.co/8xbFz31/singapore.jpg"
                 }
             ]
          },
