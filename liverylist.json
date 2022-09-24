@@ -60,6 +60,10 @@
 		     {
                     "name": "Singapore Airlines",
                     "texture": "https://i.ibb.co/8xbFz31/singapore.jpg"
+                 },
+		     {
+                    "name": "Vietnam airlines",
+                    "texture": "https://i.ibb.co/3k3j7rG/Vietnam.jpg"
                 }
             ]
          },
