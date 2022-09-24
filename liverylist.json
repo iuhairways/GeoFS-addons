@@ -46,8 +46,7 @@
 			"liveries": [{
 					"name": "Gulf Air",
 					"texture": "https://raw.githubusercontent.com/iuhairways/test3/main/gulfair.jpg"
-				         }
-			        }     
+				}
 			]
 		}
 	}
