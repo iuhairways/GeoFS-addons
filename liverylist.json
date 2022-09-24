@@ -36,16 +36,14 @@
                 }
             ]
          },
-	       "2769": {
-            "mode": 0,
-            "parts" : [0],
-            "liveries": [
-                {
-                    "name": "Gulf Air",
-                    "texture": "https://raw.githubusercontent.com/iuhairways/test3/main/gulfair.png"
-                }
-            ]
-	       }	
+		"2769": {
+			"mode": 3,
+			"parts": [0],
+			"liveries": [{
+					"name": "Gulf Air",
+					"texture": "https://raw.githubusercontent.com/iuhairways/test3/main/gulfair.png"
+				}
+			]
+		}
 	}
-    }
-
+}
