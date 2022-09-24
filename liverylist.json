@@ -42,10 +42,10 @@
             "liveries": [
                 {
                     "name": "Gulf Air",
-                    "texture": "https://cdn.discordapp.com/attachments/1020700973238325329/1020729663116546200/unknown.png"
+                    "texture": "https://raw.githubusercontent.com/iuhairways/test3/main/gulfair.png"
                 }
             ]
 	       }	
 	}
     }
-}
+
