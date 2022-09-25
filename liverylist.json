@@ -41,6 +41,10 @@
 	        {
                     "name": "Virgin atlantic",
                     "texture": "https://i.ibb.co/BCpb6py/virgin.png"
+                },
+	        {
+                    "name": "Virgin atlantic",
+                    "texture": "https://i.ibb.co/9WJ0srX/imagevirgin.jpg"
                 }
             ]
          },
