@@ -41,6 +41,10 @@
 	        {
                     "name": "Virgin atlantic",
                     "texture": "https://i.ibb.co/NTWtBGJ/Vir-GINATLANTIC.png"
+                },
+	        {
+                    "name": "Qantas",
+                    "texture": "https://i.ibb.co/T0sNkph/qantas.jpg"
                 }
             ]
          },
