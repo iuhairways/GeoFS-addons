@@ -102,6 +102,19 @@
                     "texture": "https://raw.githubusercontent.com/iuhairways/test3/main/qatarairwaYs.jpg"
                 }
             ]
-         }
+         },
+            "3292" : {
+            "mode": 0,
+            "parts" : [0],
+            "liveries": [
+                {
+                    "name": "KLM",
+                    "texture": ""
+                },
+		{
+                    "name": "Jet2holidays",
+                    "texture": "https://i.ibb.co/N7DJmVR/j2p8.png"
+            ]
+        }
 	}
 }
