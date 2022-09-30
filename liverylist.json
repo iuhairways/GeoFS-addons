@@ -116,6 +116,18 @@
                     "texture": "https://i.ibb.co/N7DJmVR/j2p8.png"
 		}
 			]
-        }
+        },
+        "2879": {
+            "mode": 0,
+            "parts" : [0],
+            "liveries": [
+                {
+                    "name": "Vueling",
+                    "texture": "https://i.ibb.co/Z2RQCdY/vue.jpg"
+                },
+                {
+                    "name": "EuroWings",
+                    "texture": "https://i.ibb.co/HY6YMDZ/gtehdzgeg-1.jpg"
+                }
 	}
 }
