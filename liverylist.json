@@ -27,6 +27,10 @@
 				{
 					"name": "easyJet",
 					"texture": "https://raw.githubusercontent.com/iuhairways/test/main/easy.jpg"
+				},
+				{
+					"name": "DHL",
+					"texture": "https://i.ibb.co/2S1b1pD/dhla320.jpg"
 				}
 			]
 		},
