@@ -107,6 +107,16 @@
                     "texture": "https://raw.githubusercontent.com/iuhairways/test3/main/qatarairwaYs.jpg"
                 }
             ]
+         },
+        "17": {
+            "mode": 0,
+            "parts" : [0],
+            "liveries": [
+                {
+                    "name": "NUA",
+                    "texture": "https://i.ibb.co/YPpPsQW/NUAlivery-MD-11.jpg"
+                }
+            ]
          }
 	}
 }
