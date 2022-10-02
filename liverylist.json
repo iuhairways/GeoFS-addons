@@ -110,7 +110,7 @@
          },
         "17": {
             "mode": 0,
-            "parts" : [0],
+            "parts" : [0, 1, 2, 3, 4, 5],
             "liveries": [
                 {
                     "name": "NUA",
