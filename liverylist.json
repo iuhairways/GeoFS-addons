@@ -122,14 +122,15 @@
                 }
             ]
          },
-		"2418": {
-			"mode": 0,
-			"parts": [0],
-			"liveries": [{
+		,
+        "2418": {
+            "mode": 0,
+            "parts" : [0],
+            "liveries": [{
 					"name": "Aer Lingus",
 					"texture": "https://raw.githubusercontent.com/iuhairways/-test/main/Aer%20Lingus%20ATR-72.jpg"
 				}
-			]
-		}
-	}
+              
+            ]
+        }
 }
