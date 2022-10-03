@@ -120,7 +120,7 @@
                     "name": "NUA",
                     "texture": "https://i.ibb.co/YPpPsQW/NUAlivery-MD-11.jpg"
                 }
-        ]
+            ]
          },
 		"2418": {
 			"mode": 3,
@@ -132,3 +132,4 @@
 			]
 		}
 	}
+}
