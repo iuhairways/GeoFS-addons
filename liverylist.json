@@ -121,6 +121,15 @@
                     "texture": "https://i.ibb.co/YPpPsQW/NUAlivery-MD-11.jpg"
                 }
             ]
-         }
+         },
+		"2418": {
+			"mode": 3,
+			"parts": [0],
+			"liveries": [{
+					"name": "Aer Lingus",
+					"texture": "https://raw.githubusercontent.com/iuhairways/-test/main/Aer%20Lingus%20ATR-72.jpg"
+				}
+			]
+		}
 	}
 }
