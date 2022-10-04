@@ -132,11 +132,20 @@
 			]
 		},
 		"247": {
-			"mode": 3,
+			"mode": 0,
 			"parts": [0],
 			"liveries": [{
 					"name": "Flybe New",
 					"texture": "https://i.ibb.co/tsCt1bF/flybedash8new.jpg"
+				}
+			]
+		},
+		"3180": {
+			"mode": 3,
+			"parts": [0],
+			"liveries": [{
+					"name": "Gulf air",
+					"texture": "https://cdn.discordapp.com/attachments/1015529244882898954/1026358629164658718/unknown.png"
 				}
 			]
 		}
