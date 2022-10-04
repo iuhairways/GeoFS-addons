@@ -130,6 +130,15 @@
 					"texture": "https://i.ibb.co/0t6bs8n/Aer-Lingus-ATR-72.jpg"
 				}
 			]
+		},
+		"247": {
+			"mode": 3,
+			"parts": [0],
+			"liveries": [{
+					"name": "Flybe New",
+					"texture": "https://i.ibb.co/tsCt1bF/flybedash8new.jpg"
+				}
+			]
 		}
 	}
 }
