@@ -10,6 +10,10 @@
 				{
 					"name": "Transavia",
 					"texture": "https://i.ibb.co/jk6k3xQ/tranavia.png"
+				},
+				{
+					"name": "ireland airways",
+					"texture": "https://i.ibb.co/cDv6FQS/ireland737-700.jpg"
 				}
 			]
 		},
