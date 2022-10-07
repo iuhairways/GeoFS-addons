@@ -159,6 +159,10 @@
 			"liveries": [{
 					"name": "Ryanair UK",
 					"texture": "https://i.ibb.co/SvHP4Mp/Ryanair-UK-737-8-AS.jpg"
+				},
+				     {
+					"name": "ireland airways",
+					"texture": "https://i.ibb.co/PhC37pt/ireland-airways-738.jpg"
 				}
 			]
 		}
