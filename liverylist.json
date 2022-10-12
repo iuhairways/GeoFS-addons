@@ -165,6 +165,19 @@
 					"texture": "https://raw.githubusercontent.com/iuhairways/thingsandstuff/main/ireland%20airways%20738.jpg"
 				}
 			]
+		},
+		"4017": {
+			"mode": 0,
+			"parts": [0],
+			"liveries": [{
+					"name": "loganair",
+					"texture": "https://i.ibb.co/jzsPPKx/loganair.jpg"
+				},
+				     {
+					"name": "loganair all white",
+					"texture": "https://i.ibb.co/myY1mwN/loganairwhite.jpg"
+				}
+			]
 		}
 	}	
 }
