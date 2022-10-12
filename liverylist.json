@@ -170,12 +170,12 @@
 			"mode": 0,
 			"parts": [0],
 			"liveries": [{
-					"name": "loganair",
-					"texture": "https://i.ibb.co/jzsPPKx/loganair.jpg"
+					"name": "Loganair",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/loganair.jpg"
 				},
 				     {
-					"name": "loganair all white",
-					"texture": "https://i.ibb.co/myY1mwN/loganairwhite.jpg"
+					"name": "Loganair all white",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/loganairwhite.jpg"
 				}
 			]
 		}
