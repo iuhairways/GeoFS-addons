@@ -88,6 +88,10 @@
 		     {
                     "name": "Delta",
                     "texture": "https://raw.githubusercontent.com/iuhairways/test3/main/deltaaaaaaa350.jpg"
+                },
+		     {
+                    "name": "Lufthansa",
+                    "texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/LufthansaA350-900.jpg"
                 }
             ]
          },
