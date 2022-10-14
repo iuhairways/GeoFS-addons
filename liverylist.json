@@ -191,6 +191,15 @@
 					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/qatar789.jpeg"
 				}
 			]
+		},
+                "238": {
+                       "mode": [0],
+                       "parts": [0, 9, 23, 24, 25, 26, 27, 28, 29, 30, 37],
+	               "liveries": [{
+		                       "name": "Condor Thomas cook",
+			               "texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/qatar789.jpeg"
+				}
+			]
 		}
 	}	
 }
