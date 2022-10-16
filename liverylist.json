@@ -200,6 +200,15 @@
 			               "texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/thomascookcondor.jpg"
 				}
 			]
+		},
+		"2871": {
+			"mode": 0,
+			"parts": [0],
+			"liveries": [{
+					"name": "edelweiss",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/edelweiss.jpg"
+			          }
+			]
 		}
 	}	
 }
