@@ -39,6 +39,10 @@
 				{
 					"name": "DHL",
 					"texture": "https://i.ibb.co/tQxZ6M1/dhla320.png"
+				},
+				{
+					"name": "Austrian",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/Austrian.png"
 				}
 			]
 		},
