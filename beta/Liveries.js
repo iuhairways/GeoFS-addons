@@ -15,7 +15,7 @@ async function init(){
 
     // Button for panel
     let buttonDiv = document.createElement("div");
-    buttonDiv.innerHTML = '<button class="mdl-button mdl-js-button geofs-f-standard-ui geofs-mediumScreenOnly" data-toggle-panel=".geofs-autoland-list" data-tooltip-classname="mdl-tooltip--top" id="liverybutton" tabindex="0" data-upgraded=",MaterialButton" onclick="listLiveries()" title="Change livery">liveries<img src="https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/adon%20logo.png" height="30px"/></button>'
+    buttonDiv.innerHTML = '<button class="mdl-button mdl-js-button geofs-f-standard-ui geofs-mediumScreenOnly" data-toggle-panel=".geofs-autoland-list" data-tooltip-classname="mdl-tooltip--top" id="liverybutton" tabindex="0" data-upgraded=",MaterialButton" onclick="listLiveries()" title="GeoFS Addon liveries">liveries</button>'
     document.body.appendChild(buttonDiv);
     document.getElementsByClassName("geofs-ui-bottom")[0].appendChild(buttonDiv);
     let element = document.getElementById("liverybutton");
