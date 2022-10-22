@@ -118,6 +118,10 @@
 		{
                     "name": "Air Malta",
                     "texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/air%20malta.jpg"
+                },
+		{
+                    "name": "BEA",
+                    "texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/bea.jpg"
                 }
 		    
             ]
