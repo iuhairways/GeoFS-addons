@@ -18,6 +18,10 @@
 				{
 					"name": "United",
 					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/united%20737.jpg"
+				},
+				{
+					"name": "air north",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/air%20north.png"
 				}
 			]
 		},
