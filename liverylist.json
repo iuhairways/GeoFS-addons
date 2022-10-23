@@ -160,6 +160,14 @@
 			"liveries": [{
 					"name": "Aer Lingus",
 					"texture": "https://i.ibb.co/g3fPSCB/Aer-Lingus-ATR-72.jpg"
+				},
+				     {
+					"name": "Flybe",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/flybe.png"
+				},
+				     {
+					"name": "Blue Islands",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/blueislands1.jpg"
 				}
 			]
 		},
