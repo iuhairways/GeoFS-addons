@@ -203,6 +203,10 @@
 				     {
 					"name": "ireland airways",
 					"texture": "https://raw.githubusercontent.com/iuhairways/thingsandstuff/main/ireland%20airways%20738.jpg"
+				},
+				     {
+					"name": "Flair",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/FlairAir.png"
 				}
 			]
 		},
