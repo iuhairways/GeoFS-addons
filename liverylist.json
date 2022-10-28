@@ -245,8 +245,8 @@
 			"mode": 1,
 			"parts": [0],
 			"liveries": [{
-					"name": "tester",
-					"texture": "https://raw.githubusercontent.com/iuhairways/mystuff/main/easyjetthing.jpg?token=GHSAT0AAAAAAB2JEB7AQZ7H3BCQEVRAT7NAY23XOXQ"
+					"name": "easyjet water thingee",
+					"texture": "https://raw.githubusercontent.com/iuhairways/thingsandstuff/main/easyjetthing.jpg"
 			          }
 			]
 		},
