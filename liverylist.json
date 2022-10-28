@@ -229,6 +229,10 @@
 			"liveries": [{
 					"name": "Qatar",
 					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/qatar789.jpeg"
+				},
+				{
+					"name": "Meme cargo",
+					"texture": "https://i.ibb.co/Hr8dH2h/image.png"
 				}
 			]
 		},
