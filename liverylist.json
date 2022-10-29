@@ -51,6 +51,10 @@
 				{
 					"name": "NUA star alliance",
 					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/staralliance.jpg"
+				},
+				{
+					"name": "easyJet Holidays",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/easyjetholidays.jpg"
 				}
 			]
 		},
