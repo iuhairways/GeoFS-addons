@@ -47,6 +47,10 @@
 				{
 					"name": "Austrian",
 					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/austrian%20(good).jpg"
+				},
+				{
+					"name": "NUA star alliance",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/staralliance.jpg"
 				}
 			]
 		},
