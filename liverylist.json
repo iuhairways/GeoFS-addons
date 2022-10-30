@@ -254,6 +254,14 @@
 	               "liveries": [{
 		                       "name": "Condor Thomas cook",
 			               "texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/thomascookcondor.jpg"
+				},
+				{
+		                       "name": "Aer Lingus",
+			               "texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/aerlingus.jpg"
+				},
+				{
+		                       "name": "Aer Lingus",
+			               "texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/easyjet.jpg"
 				}
 			]
 		},
