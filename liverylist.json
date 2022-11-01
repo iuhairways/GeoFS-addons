@@ -22,6 +22,10 @@
 				{
 					"name": "Air North",
 					"texture": "https://raw.githubusercontent.com/iuhairways/thingsandstuff/main/air%20north1.png"
+				},
+				{
+					"name": "Jet2holidays",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/j2h733.png"
 				}
 			]
 		},
