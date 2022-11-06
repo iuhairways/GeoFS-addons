@@ -266,6 +266,10 @@
 				{
 		                       "name": "easy Jet",
 			               "texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/easyjet.jpg"
+				},
+				{
+		                       "name": "united",
+			               "texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/ual757.jpg"
 				}
 			]
 		},
