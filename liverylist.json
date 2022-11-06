@@ -59,6 +59,18 @@
 				{
 					"name": "easyJet Holidays",
 					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/easyjetholidays.jpg"
+				},
+				{
+					"name": "wizz air",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/wizz%20air%20a320.jpg"
+				},
+				{
+					"name": "iberia express",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/iberiaexpress.jpg"
+				},
+				{
+					"name": "play",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/playa320neo.jpg"
 				}
 			]
 		},
