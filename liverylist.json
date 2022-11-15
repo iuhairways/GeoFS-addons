@@ -71,6 +71,10 @@
 				{
 					"name": "play",
 					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/playa320neo.jpg"
+				},
+				{
+					"name": "euro wings",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/euro%20wings%20a320%20neo.png"
 				}
 			]
 		},
