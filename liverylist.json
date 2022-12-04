@@ -239,6 +239,10 @@
 				     {
 					"name": "Flair",
 					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/FlairAir.png"
+				},
+				     {
+					"name": "TUI",
+					"texture": "https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/Liveries/g-tawx.jpg"
 				}
 			]
 		},
